@@ -3,11 +3,11 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Cadastro Escolar</title>
-		<article>
-
-
-			<img src="img/escola.png"alt="some text" width=300 height=200>
+	
+  <title>Cadastro Escolar</title>
+		
+    <article>
+			<img src="img/escola.png"
 		</article>
 	
 
