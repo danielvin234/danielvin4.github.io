@@ -1,14 +1,14 @@
-![escola](https://user-images.githubusercontent.com/75374274/101360653-b3e28880-387c-11eb-875f-34d015ded3ba.png)
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
+	<title>Cadastro Escolar</title>
+	   
+	   <article>
+	       <img src="img/escola.png"alt="some text" width=300 height=200>
+	   </article>
 	
-  <title>Cadastro Escolar</title>
 		
-    <article>
-			<img src="img/escola.png"
-		</article>
 	
 
 </head>
